@@ -11,6 +11,9 @@
   },
   "pluginOptions": {},
   "attributes": {
+    "title": {
+      "type": "string"
+    },
     "venue": {
       "type": "customField",
       "customField": "plugin::google-maps.location-picker"
