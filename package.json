@@ -15,7 +15,9 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
+    "@amicaldo/strapi-google-maps": "^3.0.2",
     "@strapi/plugin-cloud": "5.33.3",
+    "@strapi/plugin-documentation": "^5.33.3",
     "@strapi/plugin-users-permissions": "5.33.3",
     "@strapi/strapi": "5.33.3",
     "mysql2": "3.9.8",
