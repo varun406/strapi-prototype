@@ -17,6 +17,10 @@
     "venue": {
       "type": "customField",
       "customField": "plugin::google-maps.location-picker"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
     }
   }
 }
